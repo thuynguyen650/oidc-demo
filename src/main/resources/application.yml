@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    azure:
+      active-directory:
+        enabled: true
+        profile:
+          tenant-id: e8fda047-42bd-436f-a410-64918b7d1697
+        credential:
+          client-id: 18c1096a-068a-408b-bfd0-70b84e46cd56
+          client-secret: U4D8Q~aPvlZrpUKKXqXLvgqhxlbx78JgVkrT4asl

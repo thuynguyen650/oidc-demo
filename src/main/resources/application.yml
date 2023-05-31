@@ -5,6 +5,7 @@ spring:
         enabled: true
         profile:
           tenant-id: e8fda047-42bd-436f-a410-64918b7d1697
+          authority: https://login.microsoftonline.com/
         credential:
-          client-id: 18c1096a-068a-408b-bfd0-70b84e46cd56
-          client-secret: U4D8Q~aPvlZrpUKKXqXLvgqhxlbx78JgVkrT4asl
+          client-id: da958db8-faac-427e-8522-7023fc4a6de4
+          client-secret: vP18Q~NO-HdFQ0IrKVnuahn750eENHrsZBAGhcRj
